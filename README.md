@@ -1,7 +1,7 @@
  
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2AA889&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+TU_USUARIO+%F0%9F%91%8B;Software+Developer+in+Progress;Software+Engineering+%26+AI+Student;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <a href="https://github.com/SteveArvi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2AA889&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+SteveArvi+%F0%9F%91%8B;Software+Developer+in+Progress;Software+Engineering+%26+AI+Student;Always+Learning+New+Technologies" alt="Typing SVG" />
   </a>
 </p>
 
