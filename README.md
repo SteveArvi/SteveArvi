@@ -1,6 +1,6 @@
 
 
-<p align="center"><a href="https://github.com/SteveArvi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hola+cualquiera%2C+Me+ llamo+Steve+Arvi%F0%9F%91%8B;Soy+un-Aspirante+a+Ingeniero+Entusiasta;Siempre+Curoseando+Sobre+nuevas+cosas+que+programar;Amo+los+Gatos+y+Videojuegos" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/SteveArvi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hola+cualquiera%2C+Me+ llamo+Steve+Arvi%F0%9F%91%8B;Soy+un+Aspirante+a+Ingeniero+Entusiasta;Siempre+Curoseando+Sobre+nuevas+cosas+que+programar;Amo+los+Gatos+y+Videojuegos" alt="Typing SVG" /></a></p>
 
 <div align="center">
   
